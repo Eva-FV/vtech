@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    background-color: #a5bdaf !important;
+}
+
+.card{
+    
+    background-color: black
+    
+}
+
+.affiche{
+    position: absolute;
+    right: 550px;
+    top: 30px;
+}
+
+.titre{
+    color: white;
+    position: absolute;
+    right: 400px;
+    top: 30px;
+}
